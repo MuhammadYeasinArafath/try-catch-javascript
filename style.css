@@ -1,0 +1,18 @@
+#plz{
+    text-align: center;
+    font-size: 2rem;
+}
+#inp{
+    text-align: center;
+}
+#result{
+    color:rgb(255, 0, 0)
+}
+#div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    background-color: aqua;
+}
